@@ -25,3 +25,23 @@ Membuat model Regresi menggunakan Regresi Linear, SVR, Decision Tree Regression,
 ## Deployment
 
 https://concrete-strength-prediction.streamlit.app/
+
+## File Description
+
+### deployment:
+
+* app.py: File Python ini berisi logika utama untuk aplikasi deployment.
+* concrete.jpg: File jpg ini berisi gambar untuk estetis.
+* eda.py: File Python ini berisi logika untuk EDA.
+* h8dsft_P1M2_Mangara_Siagian.csv: File csv ini berisi tabel untuk analisis.
+* model_rfr.pkl: File pkl ini berisi model untuk prediksi.
+* prediction.py: File Python ini berisi logika untuk prediksi.
+* requirements.txt: File txt ini berisi library yang dibutuhkan untuk deployment.
+  
+### h8dsft_P1M2_Mangara_Siagian.ipynb: 
+
+Notebook ini berisi analisis kekuatan beton.
+
+### h8dsft_P1M2_inference_Mangara_Siagian.ipynb: 
+
+Notebook ini berisi uji coba prediksi kekuatan beton.
